@@ -1,5 +1,7 @@
 # NEC2017-neural-networks-workshop
 
+My EMAIL: *kaliostrogoblin3@gmail.com*
+
 This repository contains files that was showed on the NEC-2017 symposium as presentation of keras functionality to building deep neural networks.
 
 - *Workshop.ipynb* is an ipython notebook, that includes **main** code examples
