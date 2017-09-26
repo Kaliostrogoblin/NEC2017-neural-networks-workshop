@@ -2,7 +2,8 @@
 
 This repository contains files that was showed on the NEC-2017 symposium as presentation of keras functionality to building deep neural networks.
 
-- *Workshop.ipynb* is an ipython notebook, that includes main code examples
+- *Workshop.ipynb* is an ipython notebook, that includes **main** code examples
+- *Ososkov Goncharov NEC-School-2017.pdf* -- slides of the report 
 - *data* directory stores all trained models of neural networks from workshop. Feel free to download them and test
 
 All files in *data* with .json format are keras graphs, .h5 files are weights of the models, specyfied by graphs with the same names as weights files.
